@@ -9,10 +9,10 @@ Homogeneous theme using /styles <br>
 > 3) Custom authentication flow using Context, Hooks and AWS Cognito : https://medium.com/@mike.almpertis/react-navigation-5-0-authentication-flow-using-context-hooks-and-aws-cognito-3f7d50df7921
 
 > **Other References** <br>
-> useReducer() hooks API : https://reactjs.org/docs/hooks-reference.html#usereducer <br>
-> AWS authentication with Amplify : https://docs.amplify.aws/lib/auth/getting-started/q/platform/js <br>
-> Tektuitive Video : Both built-in & custom RN authentication w/ AWS Amplify : https://www.youtube.com/channel/UCKBWovN9JcjEPoO5rCm9eCA/videos <br>
-> Tektuitive GitHub : https://github.com/tektuitive/react-native-amplify-tutorial/tree/main/src
+> 1) useReducer() hooks API : https://reactjs.org/docs/hooks-reference.html#usereducer <br>
+> 2) AWS authentication with Amplify : https://docs.amplify.aws/lib/auth/getting-started/q/platform/js <br>
+> 3) Tektuitive Video : Both built-in & custom RN authentication w/ AWS Amplify : https://www.youtube.com/channel/UCKBWovN9JcjEPoO5rCm9eCA/videos <br>
+> 4) Tektuitive GitHub : https://github.com/tektuitive/react-native-amplify-tutorial/tree/main/src
 
 
 ## App Screenshots
