@@ -1,7 +1,7 @@
 ## expo_amplify_init2
 React Native (Expo) App with authentication flow using AWS Amplify + Cognito. <br>
 Custom SignIn, SignUp, ForgotPassword screens. <br>
-Homogeneous theme using /styles <br>
+Homogeneous theme across screens using /styles. <br>
 (NOT tested in Android environment).
 > This app integrates features from **various sources** : <br>
 > 1) UI/UX : https://dribbble.com/shots/4569970/attachments/1033490?mode=media
