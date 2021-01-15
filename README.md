@@ -14,6 +14,7 @@ Homogeneous theme across screens using /styles. <br>
 > 3) Tektuitive Video : Both built-in & custom RN authentication w/ AWS Amplify : https://www.youtube.com/channel/UCKBWovN9JcjEPoO5rCm9eCA/videos <br>
 > 4) Tektuitive GitHub : https://github.com/tektuitive/react-native-amplify-tutorial/tree/main/src
 
+## Follow instructions to get this working - `git clone` won't work!
 
 ## App Screenshots
 <img src="https://user-images.githubusercontent.com/60368973/103332121-bc625500-4a1d-11eb-94d8-7d32b53a88eb.png" width="300">
