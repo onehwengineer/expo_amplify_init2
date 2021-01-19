@@ -2,7 +2,7 @@
 React Native (Expo) App with authentication flow using AWS Amplify + Cognito. <br>
 Custom SignIn, SignUp, ForgotPassword screens. <br>
 Homogeneous theme across screens using /styles. <br>
-(NOT tested in Android environment).
+(NOT tested under Android environment).
 > This app integrates features from **various sources** : <br>
 > 1) UI/UX : https://dribbble.com/shots/4569970/attachments/1033490?mode=media
 > 2) Plant App video : https://youtu.be/gyiwFcrVRCM
@@ -17,9 +17,12 @@ Homogeneous theme across screens using /styles. <br>
 ## Follow instructions to get this working - `git clone` won't work!
 
 ## App Screenshots
-<img src="https://user-images.githubusercontent.com/60368973/103332121-bc625500-4a1d-11eb-94d8-7d32b53a88eb.png" width="300">
-<img src="https://user-images.githubusercontent.com/60368973/103332136-c84e1700-4a1d-11eb-865a-07fc515cf54c.png" width="300">
-<img src="https://user-images.githubusercontent.com/60368973/103709400-4dc64f80-4f67-11eb-97f4-bf8092f62ecd.png" width="300">
+<img src="https://user-images.githubusercontent.com/60368973/105075776-14014880-5a3f-11eb-8b21-15fa545d346b.png" width="200">
+<img src="https://user-images.githubusercontent.com/60368973/105075799-182d6600-5a3f-11eb-8770-b68fd1459533.png" width="200">
+<img src="https://user-images.githubusercontent.com/60368973/105075808-1bc0ed00-5a3f-11eb-9a41-7b88cf4b262f.png" width="200">
+<img src="https://user-images.githubusercontent.com/60368973/105076032-6b071d80-5a3f-11eb-9a84-c39b0de54416.png" width="200">
+<img src="https://user-images.githubusercontent.com/60368973/105076051-6e9aa480-5a3f-11eb-897d-746d2723d177.png" width="200">
+<img src="https://user-images.githubusercontent.com/60368973/105076058-70fcfe80-5a3f-11eb-8d10-41363025b439.png" width="200">
 
 
 ## Install AWS Amplify CLI
