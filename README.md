@@ -14,8 +14,6 @@ Homogeneous theme across screens using /styles. <br>
 > 3) Tektuitive Video : Both built-in & custom RN authentication w/ AWS Amplify : https://www.youtube.com/channel/UCKBWovN9JcjEPoO5rCm9eCA/videos <br>
 > 4) Tektuitive GitHub : https://github.com/tektuitive/react-native-amplify-tutorial/tree/main/src
 
-## Follow instructions to get this working - `git clone` won't work!
-
 ## App Screenshots
 <p float="left">
   <img src="https://user-images.githubusercontent.com/60368973/105075776-14014880-5a3f-11eb-8b21-15fa545d346b.png" width="200" />
@@ -28,8 +26,46 @@ Homogeneous theme across screens using /styles. <br>
   <img src="https://user-images.githubusercontent.com/60368973/105076058-70fcfe80-5a3f-11eb-8d10-41363025b439.png" width="200" />
 </p>
 
+## Follow instructions to get up & running - simple `git clone` won't work!
 
-## Install AWS Amplify CLI
+## Prerequisites
+- Create an AWS (Amazon Web Services) account (https://aws.amazon.com/) <br>
+-
+
+## [A] Install AWS Amplify CLI
+- Open Terminal, and type `npm install -g @aws-amplify/cli`
+
+## [B] Configure Amplify & Create Amplify User
+- In Terminal, type `amplify configure` -> This will re-direct you to a browser AWS console <br>
+- In broswer, log in to AWS <br>
+- Then, come back to Terminal, and press Enter <br>
+- Select Region <br>
+- Specify the username of the new IAM user. **I**dentity and **A**ccess **M**anagement (IAM) user is an entity that you create in AWS to represent the person or application that uses it to interact with AWS. I will name this user `amplify-auth-user`. Hit Enter, and your browser will open again. <br>
+- Make sure to check below settings <br>
+![Image](https://user-images.githubusercontent.com/60368973/105079880-e7502f80-5a44-11eb-8f4d-15c48180a44e.png)
+![Image](https://user-images.githubusercontent.com/60368973/105079946-fd5df000-5a44-11eb-81f4-f57af4861048.png)
+- Below step is optional <br>
+![Image](https://user-images.githubusercontent.com/60368973/105080000-11095680-5a45-11eb-9ab0-8ed873102585.png)
+- **Download csv file to store Access Key ID, Secret Access Key, Password**
+![Image](https://user-images.githubusercontent.com/60368973/105080071-29797100-5a45-11eb-9710-9def600ac737.png)
+- Go back to Terminal -> Press Enter to continue <br>
+- Paste Access Key ID, Secret Access Key <br>
+- Set a profile name (I kept it same as user name, `amplify-auth-user`) <br>
+- Our Amplify user has been created! <br>
+
+## [C] Create a New Expo Project
+
+## [D] Initialize AWS Amplify in RN (Expo) Project
+
+## [E] Add & Configure Authentication in RN (Expo) Project
+
+## [F] Install Dependencies
+
+## [G] Run Expo App in Simulator
+
+## [H] Manage User Pools
+
+
 There are many prerequisites to be installed before we can actually install RN.<br>
 Make sure ALL are installed.
 - [1] Install **Homebrew**
