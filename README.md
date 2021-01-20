@@ -6,7 +6,8 @@ Homogeneous theme across screens using /styles. <br>
 > This app integrates features from **various sources** : <br>
 > 1) UI/UX : https://dribbble.com/shots/4569970/attachments/1033490?mode=media
 > 2) Plant App video : https://youtu.be/gyiwFcrVRCM
-> 3) Custom authentication flow using Context, Hooks and AWS Cognito : https://medium.com/@mike.almpertis/react-navigation-5-0-authentication-flow-using-context-hooks-and-aws-cognito-3f7d50df7921
+> 3) Plant App source code : https://github.com/react-ui-kit/dribbble2react/tree/master/plant-app
+> 4) Custom authentication flow using Context, Hooks and AWS Cognito : https://medium.com/@mike.almpertis/react-navigation-5-0-authentication-flow-using-context-hooks-and-aws-cognito-3f7d50df7921
 
 > **Other References** <br>
 > 1) useReducer() hooks API : https://reactjs.org/docs/hooks-reference.html#usereducer <br>
