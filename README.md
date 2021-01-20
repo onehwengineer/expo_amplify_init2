@@ -89,12 +89,14 @@ Homogeneous theme across screens using /styles. <br>
 - Install Stack Navigator
   - `expo install @react-navigation/stack`
 
-## [G] Run Expo App in Simulator
+## [G] Copy and Paste App.js, /src, /assets to your project directory
+
+## [H] Run Expo App in Simulator
 - In VSCode Terminal, type `expo start`
   - (To run with clear cache, `expo run -c`)
   - (Or if you have yarn installed, `yarn run ios`)
 
-## [H] Manage User Pools
+## [I] Manage User Pools
 - In browser, sign in to AWS -> search for Cognito -> Click Manage User Pools
 - Click on the User Pool Name that starts with `rnawsamplifyinit...`
 - From left tab, click on Users and groups -> Registered users are listed here
