@@ -2,7 +2,9 @@
 React Native (Expo) App with authentication flow using AWS Amplify + Cognito. <br>
 Custom SignIn, SignUp, ForgotPassword screens. <br>
 Homogeneous theme across screens using /styles. <br>
-(NOT tested under Android environment).
+(NOT tested under Android environment).<br>
+**NOTE : `git clone` won't work! Follow instructions to set up & run**<br>
+<br>
 > This app integrates features from **various sources** : <br>
 > 1) UI/UX : https://dribbble.com/shots/4569970/attachments/1033490?mode=media
 > 2) Plant App video : https://youtu.be/gyiwFcrVRCM
@@ -27,7 +29,7 @@ Homogeneous theme across screens using /styles. <br>
   <img src="https://user-images.githubusercontent.com/60368973/105076058-70fcfe80-5a3f-11eb-8d10-41363025b439.png" width="200" />
 </p>
 
-## Follow instructions to get up & running - simple `git clone` won't work!
+## Follow instructions to set up & run - `git clone` won't work!
 
 ## Prerequisites
 - AWS (Amazon Web Services) account (create one here: https://aws.amazon.com/) <br>
