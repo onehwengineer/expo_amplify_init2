@@ -6,16 +6,16 @@ Homogeneous theme across screens using /styles. <br>
 **NOTE : `git clone` won't work! Follow instructions to set up & run**<br>
 <br>
 > This app integrates features from **various sources** : <br>
-> 1) UI/UX : https://dribbble.com/shots/4569970/attachments/1033490?mode=media
-> 2) Plant App video : https://youtu.be/gyiwFcrVRCM
-> 3) Plant App source code : https://github.com/react-ui-kit/dribbble2react/tree/master/plant-app
-> 4) Custom authentication flow using Context, Hooks and AWS Cognito : https://medium.com/@mike.almpertis/react-navigation-5-0-authentication-flow-using-context-hooks-and-aws-cognito-3f7d50df7921
+> 1) [UI/UX](https://dribbble.com/shots/4569970/attachments/1033490?mode=media)
+> 2) [Plant App video](https://youtu.be/gyiwFcrVRCM)
+> 3) [Plant App source code](https://github.com/react-ui-kit/dribbble2react/tree/master/plant-app)
+> 4) [Custom authentication flow using Context, Hooks and AWS Cognito](https://medium.com/@mike.almpertis/react-navigation-5-0-authentication-flow-using-context-hooks-and-aws-cognito-3f7d50df7921)
 
 > **Other References** <br>
-> 1) useReducer() hooks API : https://reactjs.org/docs/hooks-reference.html#usereducer <br>
-> 2) AWS authentication with Amplify : https://docs.amplify.aws/lib/auth/getting-started/q/platform/js <br>
-> 3) Tektuitive Video : Both built-in & custom RN authentication w/ AWS Amplify : https://www.youtube.com/channel/UCKBWovN9JcjEPoO5rCm9eCA/videos <br>
-> 4) Tektuitive GitHub : https://github.com/tektuitive/react-native-amplify-tutorial/tree/main/src
+> 1) [useReducer() hooks API](https://reactjs.org/docs/hooks-reference.html#usereducer) <br>
+> 2) [AWS authentication with Amplify](https://docs.amplify.aws/lib/auth/getting-started/q/platform/js) <br>
+> 3) [Tektuitive Video](https://www.youtube.com/channel/UCKBWovN9JcjEPoO5rCm9eCA/videos) : Both built-in & custom RN authentication w/ AWS Amplify <br>
+> 4) [Tektuitive GitHub](https://github.com/tektuitive/react-native-amplify-tutorial/tree/main/src)
 
 ## App Screenshots
 <p float="left">
